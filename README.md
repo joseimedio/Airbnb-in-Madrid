@@ -38,7 +38,7 @@ During the data filtering process, we realized that accommodations with a low nu
 
 Some geographical references were included on every scatter plot. That way, drawing conclusions became easier.
 
-In order to create the grid, different sizes were tried. The one that yield the most visual results was 1 square km (approx.). This is equivalent to a rectangle of 0.009 degrees of latitude by 0.012 degrees of longitude. (https://www.johndcook.com/how_big_is_a_degree.html)
+In order to create the grid, different sizes were tried. The one that yielded the most visual results was 1 square km (approx.). This is equivalent to a rectangle of 0.009 degrees of latitude by 0.012 degrees of longitude. (https://www.johndcook.com/how_big_is_a_degree.html)
 
 Finally, it was necessary to filter the results again before making the scatter plots. This is because the presence of outliers made the color code way less informative. And thus, the scatter plots less visual.
 
@@ -46,8 +46,12 @@ Finally, it was necessary to filter the results again before making the scatter 
 ## Results and Conclusions
 
 #### Where do people tend to give a higher location rating?
-We can see the preferred area by Airbnb users could be modeled as a circle with a radius of about 1.5km, with its center placed slightly Northeast from Puerta del Sol.
+We can see the preferred areas by Airbnb users include most of the Centro district (only excluding the west end) and the west half of the Salamanca neighborhood (https://misstourist.com/wp-content/uploads/2022/01/Map-of-best-places-to-stay-in-Madrid-660x440@2x.jpg).
 #### Where are there more options to choose from?
 Here it's very clear that the surroundings of Puerta del Sol have the highest amount of accommodations.
 #### Are the best areas too expensive?
-The areas mentioned in the previous two questions are not the most expensive. 
+The most expensive areas are not among the ones mentioned in the previous two questions. The prices at the preferred areas are intermediate or high-intermediate.
+
+As a final conclusion, it seems that Puerta del Sol and its surroundings are the best areas to stay in Madrid for the general public. It's one of the preferred areas, it offers a great variety of options and it's not one of the most expensive areas.
+
+
