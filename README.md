@@ -10,6 +10,7 @@ After filtering the database, we plotted the data on a scatter plot, using the l
   - Where are there more options to choose from?
   - Are the best areas too expensive?
 
+#### Blog post on Medium: https://cutt.ly/xMtuZ2Y
 
 ## List of files
 
