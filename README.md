@@ -47,13 +47,19 @@ Finally, it was necessary to filter the results again before making the scatter 
 ## Results
 
 #### Where do people tend to give a higher location rating?
-We can see the preferred areas by Airbnb users include most of the Centro district (only excluding the west end) and the west half of the Salamanca neighborhood (https://misstourist.com/wp-content/uploads/2022/01/Map-of-best-places-to-stay-in-Madrid-660x440@2x.jpg).
+We can see the preferred areas by Airbnb users include most of the Centro district, specially the central area and the limits with Salamanca and Retiro (for reference, see https://misstourist.com/wp-content/uploads/2022/01/Map-of-best-places-to-stay-in-Madrid-660x440@2x.jpg).
 #### Where are there more options to choose from?
-Here it's very clear that the surroundings of Puerta del Sol have the highest amount of accommodations.
+The southwest quarter of the Centro district contains by far the highest amount of houses.
 #### Are the best areas too expensive?
-The most expensive areas are not among the ones mentioned in the previous two questions. The prices at the preferred areas are intermediate or high-intermediate.
+The most expensive areas are the limits between Centro, Retiro and Salamanca, as well as other areas up north which are not among the preferred ones. 
 
 ## Conclusion
-It seems that Puerta del Sol and its surroundings are the best areas to stay in Madrid for the general public. It's one of the preferred areas, it offers a great variety of options and it's not among the most expensive.
+Puerta del Sol seems to be the best compromise for the general public. It's among the best rated, it offers many different options and its price is intermediate. 
+Other interesting areas for the general public would be La Latina and Palacio Real.
+For clients with high standards, Paseo del Prado is the way to go.
+Finally, low-budget clients should look into Lavapiés.
+
+## Possible improvements
+Defining the areas according to the actual neighborhoods instead of squares/rectangles of a fixed size would probably yield more accurate conclusions.
 
 
